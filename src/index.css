@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&family=Sevillana&display=swap');
+@import "tailwindcss";
+
+* {
+  font-family: 'Fredoka', sans-serif;
+}
